@@ -1,4 +1,6 @@
-![FAMILY Project Logo](https://family-project.eu/wp-content/themes/family/images/family_logo.svg)
+<p align="center">
+  <img src="https://family-project.eu/wp-content/themes/family/images/family_logo.svg" alt="FAMILY Project Logo" />
+</p>
 
 - 👋 Hi, we’re **@familyeu**
 - 🧠 We're a Horizon Europe consortium: *Running in the FAMILY* – exploring and predicting the intergenerational transmission of mental illness
